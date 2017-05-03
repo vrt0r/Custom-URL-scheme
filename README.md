@@ -1,6 +1,7 @@
 # Custom URL scheme Cordova/PhoneGap Plugin
 #### launch your app by a link like this: `mycoolapp://`
 for iOS, Android and WP, by [Eddy Verbruggen](http://www.x-services.nl)
+- This repo adds Support for listening to 2 intents (we get responses from different apps)
 - This repo is for PhoneGap 3.0.0 and up
 - For PhoneGap 2.9.0 and lower, [switch to the phonegap-2.9.0-and-lower branch](https://github.com/EddyVerbruggen/Custom-URL-scheme/tree/phonegap-2.9.0-and-lower)
 
